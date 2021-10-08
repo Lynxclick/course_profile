@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: linear-gradient(90deg, rgba(255,92,92,1) 10%, rgb(61, 150, 204) 90%);
+	background-image: linear-gradient(90deg, rgba(255,255,140,1) 10%, rgb(61, 150, 204) 90%);
 	font-family: Montserrat, sans-serif;
 	
 	display: flex;
@@ -48,7 +48,7 @@ p {
 
 
 .card-container img {
-	border: 1px solid rgba(255,92,92,1);
+	border: 1px solid rgba(255,255,140,1);
 	border-radius: 50%;
 	padding: 7px;
 	height: 150px;
@@ -56,17 +56,17 @@ p {
 }
 
 .icons i {
-	background-color: rgba(255,92,92,1);
-	border: 1px solid rgba(255,92,92,1);
+	background-color: rgba(255,255,140,1);
+	border: 1px solid rgba(255,255,140,1);
 	border-radius: 50%;
-	color: #fff;
+	color: black;
 
 	font-size:x-large;
 	padding: 10px 10px;
 }
 
 .icons i:hover {
-	color: #113044
+	color: #0f88da
 }
 
 
@@ -84,7 +84,7 @@ p {
 }
 
 .hashtags ul li {
-	border: 1px solid rgba(255,92,92,1)	;
+	border: 1px solid rgba(255,255,140,1)	;
 	border-radius: 2px;
 	display: inline-block;
 	font-size: 12px;
